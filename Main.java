@@ -8,7 +8,7 @@ public class Main {
             int finalmark;
         }
         System.out.println("this is the sample data for one student");
-        student stud = new student(); // Create a new instance of the student class
+        student stud = new student(); // Create a new instanc
         stud.name = "abebe";
         stud.age = 15;
         stud.id = 1;
